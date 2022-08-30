@@ -1,0 +1,218 @@
+@media only screen and (max-width: 1000px){
+	.photo {
+		max-width: 120px;
+		width: 100%;
+		max-height: 120px;
+		height: 100%
+	}
+
+	h1 {
+		font-size: 30px;
+	}
+
+	h3 {
+		font-size: 25px;
+	}
+
+	.main {
+		padding: 14px 30px;
+		max-width: 250px;
+		width: 100%;
+	}
+	
+	.download {
+		max-width: 140px;
+		width: 100%;
+		max-height: 20px;
+		height: 100%;
+	}
+
+	.downloada {
+		font-size: 14px;
+	}
+
+	.cloud {
+		max-width: 20px;
+		width: 100%;
+	}
+
+	li {
+		margin-right: 20px;
+		font-size: 14px;
+	}
+
+	.homeli>div {
+		border-bottom: 5px solid #0c6fe4;
+	}
+
+	.homediv {
+		max-width: 400px;
+		width: 100%;
+	}
+
+	.hello {
+		font-size: 40px;
+	}
+	
+	.welcome {
+		max-width: 150px;
+		width: 100%;
+	}
+	.myname {
+		font-size: 22px;
+	}
+
+	.lorem {
+		font-size: 14px;
+	}
+
+	.copy {
+		padding: 0 30px;
+		max-width: 250px;
+		width: 100%;
+		font-size: 14px;
+	}
+}
+
+@media only screen and (max-width: 900px) {	
+	.photo {
+		max-width: 100px;
+		width: 100%;
+		max-height: 100px;
+		height: 100%
+	}
+
+	h1 {
+		font-size: 20px;
+	}
+
+	h3 {
+		font-size: 16px;
+	}
+
+	.download {
+		max-width: 120px;
+		width: 100%;
+		max-height: 15px;
+		height: 100%;
+	}
+
+	.downloada {
+		font-size: 12px;
+	}
+
+	.cloud {
+		max-width: 15px;
+		width: 100%;
+	}
+
+	.main {
+		padding: 14px 20px;
+		max-width: 200px;
+		width: 100%;
+	}
+
+	li {
+		margin-right: 10px;
+		font-size: 12px;
+	}
+
+	.homeli>div {
+		border-bottom: 2px solid #0c6fe4;
+	}
+
+	.homediv {
+		max-width: 250px;
+		width: 100%;
+	}
+	
+	.welcome {
+		max-width: 130px;
+		width: 100%;
+	}
+	
+	.myname {
+		font-size: 20px;
+	}
+
+	.hello {
+		font-size: 30px;
+	}
+
+	.lorem {
+		line-height: 1;
+	}
+	.copy {
+		padding: 0 20px;
+		max-width: 200px;
+		width: 100%;
+		font-size: 12px;
+	}
+}
+
+@media only screen and (max-width: 700px){
+	.photo {
+		max-width: 80px;
+		width: 100%;
+		max-height: 80px;
+		height: 100%
+	}
+
+	h1 {
+		font-size: 16px;
+	}
+
+	h3 {
+		font-size: 12px;
+	}
+
+	.download {
+		max-width: 100px;
+		width: 100%;
+		max-height: 10px;
+		height: 100%;
+	}
+
+	.downloada {
+		font-size: 10px;
+	}
+
+	.cloud {
+		max-width: 10px;
+		width: 100%;
+	}
+
+	.main {
+		padding: 14px 10px;
+		max-width: 150px;
+		width: 100%;
+	}
+
+	.homediv {
+		max-width: 200px;
+		width: 100%;
+	}
+
+	.hello {
+		font-size: 25px;
+	}
+
+	.welcome {
+		max-width: 100px;
+		width: 100%;
+	}
+
+	.myname {
+		font-size: 16px;
+	}
+
+	.lorem {
+		font-size: 10px;
+	}
+
+	.copy {
+		padding: 0px 10px;
+		max-width: 150px;
+		width: 100%;
+	}
+}
